@@ -59,3 +59,4 @@ FAQ (Common questions and answers) for Developers
 ------
 
 https://source.android.com/security/bulletin/2016-07-01.html#common-questions-and-answers
+https://events.linuxfoundation.org/sites/events/files/slides/Android-%20protecting%20the%20kernel.pdf
