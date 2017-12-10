@@ -1,7 +1,3 @@
-[![License](https://img.shields.io/npm/l/express.svg)](https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview/blob/master/LICENSE.txt)
-
-***
-
 **Android Vulnerabilities Overview (AVO) is a databse of known security vulnerabilities in Android.**
 
 The vulnerabilities database is splitted into seperate .md files to get an better and cleaner overview. 
@@ -15,6 +11,10 @@ _The security flaw gives hacker ability to spy on Android smartphone owners, ste
 
 Contact
 ------------
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
 Found something that isn't on the list? - Feel free to submit, maintainers/contributors are always welcome! 
 
